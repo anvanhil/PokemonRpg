@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\TpPokemon.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\TpPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\TpPokemon.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\TpPokemon.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\TpPokemon.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\TpPokemon\bin\Debug\net6.0\TpPokemon.exe
+C:\Users\Utilisateur\source\repos\TpPokemon\bin\Debug\net6.0\TpPokemon.deps.json
+C:\Users\Utilisateur\source\repos\TpPokemon\bin\Debug\net6.0\TpPokemon.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\TpPokemon\bin\Debug\net6.0\TpPokemon.dll
+C:\Users\Utilisateur\source\repos\TpPokemon\bin\Debug\net6.0\TpPokemon.pdb
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\TpPokemon.dll
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\refint\TpPokemon.dll
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\TpPokemon.pdb
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\TpPokemon.genruntimeconfig.cache
+C:\Users\Utilisateur\source\repos\TpPokemon\obj\Debug\net6.0\ref\TpPokemon.dll
